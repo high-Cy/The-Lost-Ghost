@@ -8,10 +8,6 @@
 
 ## Teamwork plan/summary
 
-<!-- [[StartTeamworkPlan]] PLEASE LEAVE THIS LINE UNTOUCHED -->
-
-<!-- Fill this section by Milestone 1 (see specification for details) -->
-
 Our team will be coorperating together in bring the game to life, everyone will
 work on the logic as well as the game elements and aesthetics, such as game objects, sound, and animation. The specifics of the gameplay will be discussed and decided before being implemented. 
 
@@ -38,15 +34,7 @@ work on the logic as well as the game elements and aesthetics, such as game obje
 To keep the project well-organised, regular commits to the repository will be 
 made, and regular discussions will be held in order to  discuss the progress of our project and assign tasks to each other. 
 
-<!-- [[EndTeamworkPlan]] PLEASE LEAVE THIS LINE UNTOUCHED -->
-
 ## Final report
-
-Read the specification for details on what needs to be covered in this report... 
-
-Remember that _"this document"_ should be `well written` and formatted **appropriately**. 
-Below are examples of markdown features available on GitHub that might be useful in your report. 
-For more details you can find a guide [here](https://docs.github.com/en/github/writing-on-github).
 
 ### Table of contents
 * [Game Summary](#game-summary)
